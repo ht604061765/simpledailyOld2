@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/baseMoudle/baseMoudle.iml" filepath="$PROJECT_DIR$/baseMoudle/baseMoudle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bizMoudle/bizMoudle.iml" filepath="$PROJECT_DIR$/bizMoudle/bizMoudle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baseMoudle/com.hunter.base.framework/com.hunter.simpledaily.framework.iml" filepath="$PROJECT_DIR$/baseMoudle/com.hunter.base.framework/com.hunter.simpledaily.framework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bizMoudle/com.hunter.simplydaily.user/com.hunter.simpledaily.user.iml" filepath="$PROJECT_DIR$/bizMoudle/com.hunter.simplydaily.user/com.hunter.simpledaily.user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bizMoudle/bizModule.iml" filepath="$PROJECT_DIR$/bizMoudle/bizModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bizMoudle/com.hunter.simplydaily.user/simpledaily.user.iml" filepath="$PROJECT_DIR$/bizMoudle/com.hunter.simplydaily.user/simpledaily.user.iml" />
       <module fileurl="file://$PROJECT_DIR$/simplydaily.iml" filepath="$PROJECT_DIR$/simplydaily.iml" />
     </modules>
   </component>

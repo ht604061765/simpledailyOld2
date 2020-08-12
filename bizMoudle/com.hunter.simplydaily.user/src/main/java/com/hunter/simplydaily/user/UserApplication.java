@@ -13,6 +13,7 @@ public class UserApplication {
 		UserVo userVo = new UserVo();
 		userVo.setUserGid("asdf");
 		userVo.setUserName("asdf");
+
 		System.out.println("启动完成");
 	}
 
