@@ -9,5 +9,6 @@
     </parent>
 
     <artifactId>com.hunter.simpledaily.user</artifactId>
+    <packaging>pom</packaging>
 
 </project>

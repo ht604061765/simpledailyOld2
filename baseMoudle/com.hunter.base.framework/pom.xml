@@ -9,5 +9,6 @@
     </parent>
 
     <artifactId>com.hunter.base.framework</artifactId>
+    <packaging>pom</packaging>
 
 </project>
