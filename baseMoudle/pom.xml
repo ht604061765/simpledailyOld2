@@ -15,6 +15,7 @@
 
 	<modules>
 		<module>com.hunter.base.framework</module>
+		<module>com.hunter.base.common</module>
 	</modules>
 
 </project>

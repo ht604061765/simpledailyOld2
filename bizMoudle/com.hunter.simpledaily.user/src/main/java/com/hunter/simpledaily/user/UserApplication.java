@@ -1,5 +1,6 @@
 package com.hunter.simpledaily.user;
 
+import com.hunter.base.common.enumerate.DataState;
 import com.hunter.base.framework.utils.TestVo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -13,6 +14,7 @@ public class UserApplication {
 		SpringApplication.run(UserApplication.class, args);
 		TestVo testVo = new TestVo();
 		testVo.setAaa("aaa");
+		DataState dataState = DataState.DRAFT;
 		System.out.println("======启动完成======" + testVo.getAaa());
 	}
 
