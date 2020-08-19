@@ -12,9 +12,8 @@ public class UserApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(UserApplication.class, args);
 		TestVo testVo = new TestVo();
-		testVo.setAttr1("123adsg");
-
-		System.out.println("======启动完成======" + testVo.getAttr1());
+		testVo.setAaa("aaa");
+		System.out.println("======启动完成======" + testVo.getAaa());
 	}
 
 }

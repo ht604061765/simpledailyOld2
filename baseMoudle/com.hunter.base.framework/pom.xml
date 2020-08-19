@@ -9,6 +9,5 @@
     </parent>
 
     <artifactId>base.framework</artifactId>
-    <packaging>pom</packaging>
 
 </project>
