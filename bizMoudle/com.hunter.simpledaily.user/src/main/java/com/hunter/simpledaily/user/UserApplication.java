@@ -1,7 +1,7 @@
 package com.hunter.simpledaily.user;
 
 import com.hunter.base.common.enumerate.DataState;
-import com.hunter.base.framework.utils.TestVo;
+import com.hunter.base.common.utils.StringUtils;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.ServletComponentScan;
@@ -12,10 +12,8 @@ public class UserApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UserApplication.class, args);
-		TestVo testVo = new TestVo();
-		testVo.setAaa("aaa");
 		DataState dataState = DataState.DRAFT;
-		System.out.println("======启动完成======" + testVo.getAaa());
+		System.out.println("======启动完成======" + StringUtils.equals("2","3"));
 	}
 
 }

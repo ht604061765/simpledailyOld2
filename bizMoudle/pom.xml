@@ -25,7 +25,7 @@
 		<!--	依赖基础功能包	-->
 		<dependency>
 			<groupId>com.hunter</groupId>
-			<artifactId>base.framework</artifactId>
+			<artifactId>baseModule</artifactId>
 			<version>1.0-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
